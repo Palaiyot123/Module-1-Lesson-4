@@ -1,0 +1,9 @@
+D:\C# project\Client and server interaction\Client and server interaction\bin\Debug\Client and server interaction.exe.config
+D:\C# project\Client and server interaction\Client and server interaction\bin\Debug\Client and server interaction.exe
+D:\C# project\Client and server interaction\Client and server interaction\bin\Debug\Client and server interaction.pdb
+D:\C# project\Client and server interaction\Client and server interaction\obj\Debug\Client and server interaction.csprojResolveAssemblyReference.cache
+D:\C# project\Client and server interaction\Client and server interaction\obj\Debug\Client_and_server_interaction.Form1.resources
+D:\C# project\Client and server interaction\Client and server interaction\obj\Debug\Client_and_server_interaction.Properties.Resources.resources
+D:\C# project\Client and server interaction\Client and server interaction\obj\Debug\Client and server interaction.csproj.GenerateResource.Cache
+D:\C# project\Client and server interaction\Client and server interaction\obj\Debug\Client and server interaction.exe
+D:\C# project\Client and server interaction\Client and server interaction\obj\Debug\Client and server interaction.pdb
